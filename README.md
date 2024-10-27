@@ -2,7 +2,7 @@
   <img width="800" src="./figures/conecta_logo.png" />
 </p> 
 
-# [PAPER TITLE]
+# TEDA-Forecasting: An Unsupervised TinyML Incremental Learning Approach for Outlier Processing and Forecasting
 
 
 ### ✍🏾Authors:  [Pedro Andrade](https://github.com/pedrohmeiraa), [Morsinaldo Medeiros](https://github.com/Morsinaldo), [Ivanovitch Silva](https://github.com/ivanovitchm), [Marianne Diniz](https://github.com/MarianneDiniz), and [Daniel G. Costa](https://github.com/daniel-gcosta).
@@ -10,7 +10,7 @@
 
 # 1. Abstract/Overview
 
-[PUT ABSTRACT HERE]
+The expansion of smart systems and the Internet of Things (IoT) has increased data generation, demanding efficient real-time processing techniques. In this scenario, edge computing and TinyML, which allow the execution of machine learning models on low-power microcontrollers, emerge as promising solutions. However, there are still challenges in developing lightweight algorithms capable of processing continuous data streams on devices with limited resources. In this article, we propose TEDA-Forecasting, a time series forecasting algorithm based on the Typicality and Eccentricity Data Analytics (TEDA) technique, designed to operate on TinyML platforms. To validate this innovative algorithm, we consider different types of input data, as well as its actual embedding on a real-world edge device for more practical evaluation, efficiently enabling anomaly detection and outlier correction in the input streams. The achieved results indicate that TEDA-Forecasting offers high accuracy with energy efficiency, demonstrating its potential for applications in resource-constrained IoT systems, such as those enabled by the emerging TinyML paradigm.
   
 For a better didactic exposition, the results will be presented in 9 notebooks:
 
@@ -27,7 +27,7 @@ For a better didactic exposition, the results will be presented in 9 notebooks:
 # 2. Environment Setup
 First, start by cloning the repository:
 ```bash
-git clone https://github.com/conect2ai/ELSEVIER-2024-TEDA-Forecasting.git
+git clone https://github.com/conect2ai/COMPUTING-2024-TEDA-Forecasting.git
 ```
 
 We also have cloned the `Padasip` repository:
