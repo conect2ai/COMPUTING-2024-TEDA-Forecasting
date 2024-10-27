@@ -54,7 +54,7 @@ Now, we are going to install the  `WandB`: 💻
 3. Clone this repository:
 
 ```bash
-git clone https://github.com/conect2ai/ELSEVIER-2024-TEDA-Forecasting.git
+git clone https://github.com/conect2ai/COMPUTING-2024-TEDA-Forecasting.git
 ```
 
 4. Open the project folder `./Freematics/firmware_v5/telelogger` on PlatformIO, as illustrated in the figure below.
